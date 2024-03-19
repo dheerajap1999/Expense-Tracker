@@ -1,13 +1,23 @@
 # Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Working
 The expense tracker is a simple application that allows users to add and manage their daily expenses.
 
 A simple expense tracker application built using React and Redux. It allows users to add, edit or delete their expenses. 
 
-This app allows users to add new expenses, view a list of all expenses, also you will find the use of hooks, Reduce and other react functionality.
+This app allows users to add new expenses, and view a list of all expenses, also you will find the use of hooks, Reduce and other react functionality.
+## To run applications on your devices.
+
+### Follow the instructions below.
+
+* Copy this URL [https://github.com/dheerajap1999/Expense-Tracker.git](https://github.com/dheerajap1999/Expense-Tracker.git) and on your desired folder clone this repository.
+* Then open the folder with any code editor and in the terminal go to the desired path using the cd command.
+* After that to install all the packages and library which was used in this application type `npm install` or `npm i`.
+* After completing the installation type `npm start` this will host the application on [http://localhost:3000](http://localhost:3000).
+* That's it and you are good to go.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
