@@ -6,6 +6,15 @@ The expense tracker is a simple application that allows users to add and manage 
 A simple expense tracker application built using React and Redux. It allows users to add, edit or delete their expenses. 
 
 This app allows users to add new expenses, and view a list of all expenses, also you will find the use of hooks, Reduce and other react functionality.
+
+## Tech Stack
+* React.JS
+* FireBase [DB]
+* HTML
+* CSS
+* Java Script
+* Bootstrap
+  
 ## To run applications on your devices.
 
 ### Follow the instructions below.
