@@ -14,7 +14,9 @@ This app allows users to add new expenses, and view a list of all expenses, also
 * CSS
 * Java Script
 * Bootstrap
-  
+
+## Project is hosted on :- https://dheerajap1999.github.io/Expense-Tracker
+
 ## To run applications on your devices.
 
 ### Follow the instructions below.
